@@ -22,7 +22,7 @@ import { StarIcon } from '@heroicons/react/20/solid'
 import { Radio, RadioGroup } from '@headlessui/react'
 
 const product = {
-  name: 'LOJA DOS CAIPIRA QUI QUÉ CUMPRA BLUSA ARAAA',
+  name: 'LOJA DOS CAIPIRA QUI QUÉ CUMPRA BLUSA ARAAA 2.0 porque o Henrique num qué u mesmu nomi pru negocio du GITHUB',
   price: '$7777777777777',
   href: '#',
   breadcrumbs: [
